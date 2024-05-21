@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\viewmodels\\createmeetubvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\viewmodels\\createmeetubvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\areas\\admin\\views\\shared\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\areas\\admin\\views\\shared\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\dal\\meetubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\dal\\meetubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\models\\speakers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\models\\speakers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Migrations\\20240521045417_craeteDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeetubPractica\\Migrations\\20240521045417_craeteDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Migrations\\20240521045652_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeetubPractica\\Migrations\\20240521045652_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|c:\\users\\ca.r214.04\\desktop\\meetubpractica\\meetubpractica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2633AFE3-40EA-44AB-8A26-499547136161}|MeetubPractica\\MeetubPractica.csproj|solutionrelative:meetubpractica\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 236,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\Shared\\Update.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Areas\\Admin\\Views\\Shared\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\Shared\\Update.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Areas\\Admin\\Views\\Shared\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T07:02:04.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateMeetubVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\ViewModels\\CreateMeetubVM.cs",
+              "RelativeDocumentMoniker": "MeetubPractica\\ViewModels\\CreateMeetubVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\ViewModels\\CreateMeetubVM.cs",
+              "RelativeToolTip": "MeetubPractica\\ViewModels\\CreateMeetubVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:41:24.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:27:16.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:14:10.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MeetubPractica\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MeetubPractica\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:11:10.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:13:52.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:15:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Speakers.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Models\\Speakers.cs",
+              "RelativeDocumentMoniker": "MeetubPractica\\Models\\Speakers.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Models\\Speakers.cs",
+              "RelativeToolTip": "MeetubPractica\\Models\\Speakers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:43:30.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:16:55.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MeetubPractica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MeetubPractica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:15:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetubContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\DAL\\MeetubContext.cs",
+              "RelativeDocumentMoniker": "MeetubPractica\\DAL\\MeetubContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\DAL\\MeetubContext.cs",
+              "RelativeToolTip": "MeetubPractica\\DAL\\MeetubContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:33:34.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T05:16:45.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Program.cs",
+              "RelativeDocumentMoniker": "MeetubPractica\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Program.cs",
+              "RelativeToolTip": "MeetubPractica\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:21:34.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:15:39.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MeetubPractica\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MeetubPractica\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T05:09:40.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240521045417_craeteDb.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Migrations\\20240521045417_craeteDb.cs",
+              "RelativeDocumentMoniker": "MeetubPractica\\Migrations\\20240521045417_craeteDb.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Migrations\\20240521045417_craeteDb.cs",
+              "RelativeToolTip": "MeetubPractica\\Migrations\\20240521045417_craeteDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:54:17.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240521045652_CreateDb.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Migrations\\20240521045652_CreateDb.cs",
+              "RelativeDocumentMoniker": "MeetubPractica\\Migrations\\20240521045652_CreateDb.cs",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Migrations\\20240521045652_CreateDb.cs",
+              "RelativeToolTip": "MeetubPractica\\Migrations\\20240521045652_CreateDb.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:56:52.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MeetubPractica\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MeetubPractica\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T04:53:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\appsettings.json",
+              "RelativeDocumentMoniker": "MeetubPractica\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\appsettings.json",
+              "RelativeToolTip": "MeetubPractica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T04:51:38.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MeetubPractica\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.04\\Desktop\\MeetubPractica\\MeetubPractica\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MeetubPractica\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:15:48.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

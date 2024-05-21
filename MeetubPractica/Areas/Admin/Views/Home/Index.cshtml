@@ -1,0 +1,58 @@
+﻿@using MeetubPractica.Models
+@model List<Speakers>
+<h5 class="card-title fw-semibold mb-4">Recent Transactions</h5>
+<a asp-action="Create" class="btn btn-success m-1">Create</a>
+<div class="table-responsive">
+    <table class="table text-nowrap mb-0 align-middle">
+        <thead class="text-dark fs-4">
+            <tr>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Id</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">ImageUrl</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Name</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Subtitle</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Icons</h6>
+                </th>
+                <th class="border-bottom-0">
+                    <h6 class="fw-semibold mb-0">Action</h6>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+               
+            <td class="border-bottom-0"><h6 class="fw-semibold mb-0">@item.Id </h6></td>
+            <td class="border-bottom-0">
+                <h6 class="fw-semibold mb-1">@item.Name</h6>
+            </td>
+            <td class="border-bottom-0">
+                <p class="mb-0 fw-normal">@item.Subtitle</p>
+            </td>
+            <td class="border-bottom-0">
+                <i class="@item.Icons"></i>
+                @* @Html.Raw(item) *@
+            </td>
+            <td class="border-bottom-0">
+                <img style=" width=150 heigth=150" src="@item.ImageUrl" />
+            </td>
+            <td>
+            <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-success m-1">Update</a>
+            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-success m-1">Delete</a>
+            </td>
+ </tr>
+            }
+
+
+        </tbody>
+    </table>
